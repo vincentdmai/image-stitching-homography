@@ -6,3 +6,6 @@ Utilized RANSAC to find the best fitting Homography Matrix within a given iterat
 - OpenCV
 - NumPy
 - Python3
+
+### TODO:
+- Clean up stitching process and maximize best RANSAC results in Homography Matrix to reduce inconsistencies.
